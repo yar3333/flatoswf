@@ -1,4 +1,3 @@
-syntax: glob
 *.pdb
 *.vshost.*
 obj/
